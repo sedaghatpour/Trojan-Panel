@@ -1,4 +1,3 @@
-# Trojan Panel 
 # تروجان پنل
 
 پنل مدیریت وب چند کاربره با پشتیبانی از Xray/Trojan-Go/Hysteria/NaiveProxy
